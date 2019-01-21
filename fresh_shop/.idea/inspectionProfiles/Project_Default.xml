@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="goods.models.GoodsCategory.objects" />
+          <option value="goods.models.Goods.objects" />
+          <option value="user.models.User.objects" />
+          <option value="cart.models.ShoppingCart.objects" />
+          <option value="user.models.UserAddress.objects" />
+          <option value="order.models.OrderInfo.objects" />
+          <option value="order.models.OrderGoods.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
